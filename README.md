@@ -7,17 +7,17 @@ Gulp kit for your awesome new project. Gulp help you to build website faster and
 - Nodejs/npm
 - Gulp
 
-1. Install the gulp global using git terminal
+First Install the gulp global using git terminal
 ```
 	npm install gulp -g
 ```
-2. Second install the node_modules
+Second go to the gulp-kit root directory, then install the node_modules
 ```
 	npm install
 ```
-3. run the program in the root directory
+Last run the program in the root directory
 ```
 	gulp
 ```
 
-**Have fun**
+**Have fun.**
