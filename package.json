@@ -1,0 +1,45 @@
+{
+  "name": "modnoc",
+  "version": "1.0.0",
+  "description": "Free parallax web template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-Janagap/modnoc.git"
+  },
+  "keywords": [
+    "modnoc"
+  ],
+  "author": "Robert Janagap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-Janagap/modnoc/issues"
+  },
+  "homepage": "https://github.com/Robert-Janagap/modnoc#readme",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-changed": "^1.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uncss": "^1.0.2",
+    "gulp-watch": "^4.3.3",
+    "imagemin-pngquant": "^4.1.2",
+    "jshint-stylish": "^2.0.1"
+  }
+}
